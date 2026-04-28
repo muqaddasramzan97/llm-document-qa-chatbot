@@ -10,3 +10,7 @@ A Retrieval Augmented Generation (RAG) system for answering questions from custo
 
 ## Status
 Project setup in progress...
+
+pip install openai langchain-openai
+pip install langchain-ollama
+ollama pull llama3
